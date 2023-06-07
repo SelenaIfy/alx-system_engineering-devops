@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u ./file*.html ../file*.html
+cp -u ./*.html ..
